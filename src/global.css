@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'DINalternate-bold';
+  src: url('./assets/fonts/DINAlternateBold.ttf');
+}
+
+html, body, #root {
+  height: 100%;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'DINalternate-bold','BlinkMacSystemFont', 'Roboto', "Helvetica Neue", Helvetica, Arial, "PingFang SC", "-apple-system", "Hiragino Sans GB", "Source Han Sans CN", Noto Sans CJK SC, Microsoft YaHei, Microsoft Jhenghei,SimHei,STXihei,YouYuan,sans-serif;
+}
+
+body {
+  margin: 0;
+}
